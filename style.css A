@@ -1,18 +1,21 @@
 body{
-    background: #F0E68C
-}
+    background: #0000FF;
+ }  
 
 h1{
-text-align: center:
+    text-align: center;
 
 }
 
-p []
+p {
+ 
+    text-align: center;
+ }
 
+em strong {
 
-
-
-
+    color:  #FF4500;
+}
 
 
 
